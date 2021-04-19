@@ -45,6 +45,7 @@ public class Producer {
          * </pre>
          */
 
+        producer.setNamesrvAddr("127.0.0.1:9876"); // 设置Namesrv
         /*
          * Launch the instance.
          */
